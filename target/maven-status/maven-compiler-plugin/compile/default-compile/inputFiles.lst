@@ -1,0 +1,9 @@
+/home/giacomino/Downloads/mobile-app-ws/src/main/java/com/appsdeveloperblog/app/ws/mobile_app_ws/MobileAppWsApplication.java
+/home/giacomino/Downloads/mobile-app-ws/src/main/java/com/appsdeveloperblog/app/ws/mobile_app_ws/UserRepository.java
+/home/giacomino/Downloads/mobile-app-ws/src/main/java/com/appsdeveloperblog/app/ws/mobile_app_ws/io/entity/UserEntity.java
+/home/giacomino/Downloads/mobile-app-ws/src/main/java/com/appsdeveloperblog/app/ws/mobile_app_ws/service/UserService.java
+/home/giacomino/Downloads/mobile-app-ws/src/main/java/com/appsdeveloperblog/app/ws/mobile_app_ws/service/impl/UserServiceImpl.java
+/home/giacomino/Downloads/mobile-app-ws/src/main/java/com/appsdeveloperblog/app/ws/mobile_app_ws/shared/dto/UserDto.java
+/home/giacomino/Downloads/mobile-app-ws/src/main/java/com/appsdeveloperblog/app/ws/mobile_app_ws/ui/controllers/UserController.java
+/home/giacomino/Downloads/mobile-app-ws/src/main/java/com/appsdeveloperblog/app/ws/mobile_app_ws/ui/model/request/UserDetailsRequestModel.java
+/home/giacomino/Downloads/mobile-app-ws/src/main/java/com/appsdeveloperblog/app/ws/mobile_app_ws/ui/model/response/UserRest.java

@@ -1,0 +1,9 @@
+com/appsdeveloperblog/app/ws/mobile_app_ws/ui/model/response/UserRest.class
+com/appsdeveloperblog/app/ws/mobile_app_ws/service/impl/UserServiceImpl.class
+com/appsdeveloperblog/app/ws/mobile_app_ws/ui/model/request/UserDetailsRequestModel.class
+com/appsdeveloperblog/app/ws/mobile_app_ws/ui/controllers/UserController.class
+com/appsdeveloperblog/app/ws/mobile_app_ws/shared/dto/UserDto.class
+com/appsdeveloperblog/app/ws/mobile_app_ws/MobileAppWsApplication.class
+com/appsdeveloperblog/app/ws/mobile_app_ws/UserRepository.class
+com/appsdeveloperblog/app/ws/mobile_app_ws/io/entity/UserEntity.class
+com/appsdeveloperblog/app/ws/mobile_app_ws/service/UserService.class
